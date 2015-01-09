@@ -1,3 +1,3 @@
-module Math
+module GMath
   VERSION = "0.0.1"
 end
