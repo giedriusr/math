@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'gmath/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'math'
+  spec.name          = 'gmath'
   spec.version       = GMath::VERSION
   spec.authors       = ['Giedrius Rimkus']
   spec.email         = ['info@giedriusr.lt']

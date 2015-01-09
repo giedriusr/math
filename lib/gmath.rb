@@ -1,6 +1,6 @@
-require "math/version"
+require "gmath/version"
 
-module Math
+module GMath
   def self.sum(a, b)
     a + b
   end
