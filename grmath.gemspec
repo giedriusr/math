@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'gmath/version'
+require 'grmath/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'gmath'
-  spec.version       = GMath::VERSION
+  spec.name          = 'grmath'
+  spec.version       = GRMath::VERSION
   spec.authors       = ['Giedrius Rimkus']
   spec.email         = ['info@giedriusr.lt']
   spec.summary       = %q{Gem provides basic math actions}

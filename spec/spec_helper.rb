@@ -1,1 +1,1 @@
-require 'gmath'
+require 'grmath'
